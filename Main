@@ -197,5 +197,4 @@
 
 
 
-
-loadstring(game:HttpGet("https://ltc.re/s/J6OHAVW2U1W"))()
+loadstring(game:HttpGet("https://ltc.re/s/S4LAWTUH4F3"))()
